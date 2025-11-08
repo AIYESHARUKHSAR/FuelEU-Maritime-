@@ -21,7 +21,10 @@ What You Can Do in This App
 | **Package Manager** | pnpm                                    |
 | **Environment**     | `.env` for DB + Server configs          |
 
+
 Project Structure
+
+
 <img width="180" height="331" alt="Screenshot 2025-11-09 021715" src="https://github.com/user-attachments/assets/f8a52046-459b-4a2c-91a5-1baf68791d18" />
 
 
