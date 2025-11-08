@@ -100,11 +100,15 @@ This project is more than just code — it shows:
 
 
 Ideas for Future Enhancements
-Add login & role-based access (Admin / Operator / Auditor)
-Add charts for better visualization of emissions & CB changes
-Export CB reports as PDF/Excel
-Add validation, error handling, and inline UI messages
-Deploy using Render / Railway / Vercel / Docker Compose
+* Add login & role-based access (Admin / Operator / Auditor)
+  
+* Add charts for better visualization of emissions & CB changes
+
+* Export CB reports as PDF/Excel
+  
+* Add validation, error handling, and inline UI messages
+  
+* Deploy using Render / Railway / Vercel / Docker Compose
 
 Thank you for checking out this project! I hope it’s useful for you or anyone who wants to learn how to build a real‑world calendar application.
 Happy coding! 
