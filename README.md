@@ -5,12 +5,12 @@ It allows users to track routes, compare emissions, and manage Compliance Balanc
 This project was built to practice modern full-stack development, clean architecture, and the use of AI coding assistants to speed up development while keeping code quality high.
 
 What You Can Do in This App
-✅ View & manage routes for different ships
-✅ Compare emissions against baseline and EU target values (with % difference and compliance result)
-✅ Bank surplus CB or apply credits when needed
-✅ Create compliance pools to balance emissions between ships
-✅ Uses a Hexagonal Architecture so the code stays clean, modular, and scalable
-✅ Built with the support of AI tools to boost productivity, refactor code, and document the system
+View & manage routes for different ships
+Compare emissions against baseline and EU target values (with % difference and compliance result)
+Bank surplus CB or apply credits when needed
+Create compliance pools to balance emissions between ships
+Uses a Hexagonal Architecture so the code stays clean, modular, and scalable
+Built with the support of AI tools to boost productivity, refactor code, and document the system
 
 | Part                | Tech Used                               |
 | ------------------- | --------------------------------------- |
@@ -92,5 +92,6 @@ Export CB reports as PDF/Excel
 Add validation, error handling, and inline UI messages
 Deploy using Render / Railway / Vercel / Docker Compose
 
-
+Thank you for checking out this project! I hope it’s useful for you or anyone who wants to learn how to build a real‑world calendar application.
+Happy coding! 
 
