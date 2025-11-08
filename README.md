@@ -85,11 +85,17 @@ How To use the app
 
 
 Why This Project Is Valuable
+
 This project is more than just code — it shows:
+
 Ability to convert a real regulation into working software
+
 Strong understanding of architecture, domain modeling, and business logic
+
 Experience in a real-world industry domain (shipping + sustainability)
+
 Full-stack development across UI, backend, DB, and data flows
+
 AI-assisted development used responsibly to improve speed & quality
 
 
