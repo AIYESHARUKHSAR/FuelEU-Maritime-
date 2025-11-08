@@ -38,38 +38,56 @@ Project Structure
 
 
 Getting Started (Easy Setup Guide)
-Requirements Before You Start
-Make sure you have:
-Node.js 18+
-pnpm installed (npm install -g pnpm)
-PostgreSQL (local or via Docker)
 
-Backend Setup
-git clone https://github.com/yourusername/FuelEU-Maritime.git
-cd FuelEU-Maritime/backend
-pnpm install
+1. Requirements Before You Start
+
+* Make sure you have:
+
+* Node.js 18+
+  
+* pnpm installed (npm install -g pnpm)
+  
+* PostgreSQL (local or via Docker)
+
+2. Backend Setup
+
+* git clone https://github.com/yourusername/FuelEU-Maritime.git
+
+* cd FuelEU-Maritime/backend
+  
+* pnpm install
 
 Create a .env file
+
 DATABASE_URL="postgresql://postgres:postgres@localhost:5432/fueleu?schema=public"
 PORT=4000
 
 If using Docker to run PostgreSQL:
+
 docker compose up -d
 
 Run Prisma setup:
+
 pnpm db:generate
+
 pnpm db:migrate
+
 pnpm db:seed
 
 Start backend:
+
 pnpm dev
 
 Backend runs at:
+
 http://localhost:4000
 
-Frontend Setup
+3. Frontend Setup
+   
 cd frontend
+
 pnpm install
+
 pnpm dev
 
 Visit the app in your browser:
