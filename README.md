@@ -82,12 +82,9 @@ Backend runs at:
 
 http://localhost:4000
 
-3. Frontend Setup
-   
+3. Frontend Setup   
 cd frontend
-
 pnpm install
-
 pnpm dev
 
 Visit the app in your browser:
