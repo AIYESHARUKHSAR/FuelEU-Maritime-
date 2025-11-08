@@ -22,24 +22,9 @@ What You Can Do in This App
 | **Environment**     | `.env` for DB + Server configs          |
 
 Project Structure
-fueleu-compliance/
-│
-├── frontend/                     # UI built using React + Tailwind
-│   └── src/
-│       ├── core/                 # Domain logic, ports & use-cases
-│       ├── adapters/             # UI components + API layer
-│       ├── shared/               # Reusable constants/utilities
-│       └── App.tsx               # Main App
-│
-└── backend/
-    ├── src/
-    │   ├── core/                 # Business logic (domain + use-cases)
-    │   ├── adapters/             # HTTP routers + DB repositories
-    │   ├── infrastructure/       # Server setup + DB seed
-    │   └── shared/               # Constants + shared helpers
-    ├── prisma/schema.prisma
-    ├── package.json
-    └── .env
+<img width="180" height="331" alt="Screenshot 2025-11-09 021715" src="https://github.com/user-attachments/assets/f8a52046-459b-4a2c-91a5-1baf68791d18" />
+
+
 
 Getting Started (Easy Setup Guide)
 Requirements Before You Start
