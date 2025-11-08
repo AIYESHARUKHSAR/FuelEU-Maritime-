@@ -57,35 +57,35 @@ Getting Started (Easy Setup Guide)
   
 * pnpm install
 
-Create a .env file
+3.Create a .env file
 
 DATABASE_URL="postgresql://postgres:postgres@localhost:5432/fueleu?schema=public"
 PORT=4000
 
-If using Docker to run PostgreSQL:
+4.If using Docker to run PostgreSQL:
 
-docker compose up -d
+* docker compose up -d
 
-Run Prisma setup:
+* Run Prisma setup:
 
-pnpm db:generate
+* pnpm db:generate
 
-pnpm db:migrate
+* pnpm db:migrate
 
-pnpm db:seed
+* pnpm db:seed
 
-Start backend:
+5.Start backend:
 
-pnpm dev
+* pnpm dev
 
-Backend runs at:
+6.Backend runs at:
 
 http://localhost:4000
 
-3. Frontend Setup   
-cd frontend
-pnpm install
-pnpm dev
+7. Frontend Setup   
+* cd frontend
+* pnpm install
+* pnpm dev
 
 Visit the app in your browser:
 http://localhost:5173
